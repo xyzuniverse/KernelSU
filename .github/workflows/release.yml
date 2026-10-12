@@ -66,6 +66,7 @@ jobs:
         with:
           files: |
             manager/*.apk
+            manager-spoofed/*.apk
             lkm/lkm-*_kernelsu.ko
             ksud/ksud-*
             ksuinit/*
